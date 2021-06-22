@@ -10,11 +10,11 @@ Campos remanentes en función del sigma
 
 sigma 0
 
-<img src="graficos/remanente\ sigma=0.png .png" alt="hi" class="inline"/>
+<img src="graficos/remanente sigma=0.png" alt="hi" class="inline"/>
 
 sigma 0.05
 
-<img src="graficos/remanente sigma=0.05.png .png" alt="hi" class="inline"/>
+<img src="graficos/remanente sigma=0.05.png" alt="hi" class="inline"/>
 
 sigma 0.1
 
