@@ -45,3 +45,11 @@ sigma 0
 sigma 0.05
 
 <img src="graficos/coercitivo sigma=0.05.png" alt="hi" class="inline"/>
+
+sigma 0.75
+
+<img src="graficos/coercitivo sigma=0.75.png" alt="hi" class="inline"/>
+
+sigma 1
+
+<img src="graficos/coercitivo sigma=1.png" alt="hi" class="inline"/>
