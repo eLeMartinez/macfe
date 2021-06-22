@@ -1,19 +1,47 @@
 # macfe
 
-Para T= 0.01
+Densidad máxima alcanzada para la distribución:
 
-<img src="grafico_1.png" alt="hi" class="inline"/>
+<img src="graficos/densidades.png" alt="hi" class="inline"/>
 
-<img src="grafico_3.png" alt="hi" class="inline"/>
+Tengo que hacer más pruebas, pero parece bastante representativo.
 
-Pata T=0.05
+Campos remanentes en función del sigma
 
-<img src="grafico_2.png" alt="hi" class="inline"/>
+sigma 0
 
-<img src="grafico_4.png" alt="hi" class="inline"/>
+<img src="graficos/remanente sigma=0.png .png" alt="hi" class="inline"/>
 
-Comparando distintas temperaturas:
+sigma 0.05
 
-<img src="grafico_5.png" alt="hi" class="inline"/>
+<img src="graficos/remanente sigma=0.05.png .png" alt="hi" class="inline"/>
 
-<img src="grafico_6.png" alt="hi" class="inline"/>
+sigma 0.1
+
+<img src="graficos/remanente sigma=0.1.png .png" alt="hi" class="inline"/>
+
+sigma 0.25
+
+<img src="graficos/remanente sigma=0.25.png .png" alt="hi" class="inline"/>
+
+sigma 0.5
+
+<img src="graficos/remanente sigma=0.5.png .png" alt="hi" class="inline"/>
+
+sigma 0.75
+
+<img src="graficos/remanente sigma=0.75.png .png" alt="hi" class="inline"/>
+
+sigma 1
+
+<img src="graficos/remanente sigma=1.png .png" alt="hi" class="inline"/>
+
+Campos coercitivos en función del sigma
+
+sigma 0
+
+<img src="graficos/coercitivo sigma=0.png .png" alt="hi" class="inline"/>
+
+sigma 0.05
+
+<img src="graficos/coercitivo sigma=0.05.png .png" alt="hi" class="inline"/>
